@@ -61,6 +61,10 @@
     "image": "images/black-denim.jpeg",
     "alt": "Black Denim Jacket dari foto asli ST.FASHION",
     "details": "Colour: Black · Bahan: Denim",
-    "sizes": []
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
   }
 ]
