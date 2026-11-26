@@ -1,45 +1,5 @@
 [
-  {
-    "id": "essential-tshirt",
-    "name": "Essential T-Shirt",
-    "category": "Casual collection",
-    "price": 89000,
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=700&q=85",
-    "alt": "Kaos pria warna netral",
-    "details": "",
-    "sizes": []
-  },
-  {
-    "id": "casual-shirt",
-    "name": "Casual Shirt",
-    "category": "Daily collection",
-    "price": 129000,
-    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=700&q=85",
-    "alt": "Kemeja pria kasual",
-    "details": "",
-    "sizes": []
-  },
-  {
-    "id": "urban-pants",
-    "name": "Urban Pants",
-    "category": "Streetwear collection",
-    "price": 159000,
-    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=700&q=85",
-    "alt": "Celana gaya streetwear pria",
-    "details": "",
-    "sizes": []
-  },
-  {
-    "id": "classic-hoodie",
-    "name": "Classic Hoodie",
-    "category": "Premium collection",
-    "price": 179000,
-    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=700&q=85",
-    "alt": "Hoodie pria",
-    "details": "",
-    "sizes": []
-  },
-  {
+   {
     "id": "jaket-denim",
     "name": "Jaket Denim",
     "category": "Denim collection",
