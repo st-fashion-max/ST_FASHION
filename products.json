@@ -87,7 +87,7 @@
     "id": "st3",
     "name": "Spring New Classic Metal Ribbed Bucckle Design Shoulder Strap Washed Denim Short Jacket",
     "category": "Denim collection",
-    "price": 998890,
+    "price": 1218890,
     "image": "images/st8.jpeg",
     "alt": "Rompi Denim Jacket dari foto asli ST.FASHION",
     "details": "Colour: Gray · Bahan: Denim",
@@ -118,11 +118,25 @@
     "price": 1450890,
     "image": "images/st10.jpeg",
     "alt": "Rompi Denim Jacket dari foto asli ST.FASHION",
-    "details": "Colour: Gray · Bahan: Denim",
+    "details": "Colour: Black · Bahan: Kulit",
      "sizes": [
       "M",
       "L",
       "XL"
     ] 
+    },
+   {
+    "id": "st3",
+    "name": "Foreign trade Men's Fashion Armband Baseball Colar Zipper Denim Jacket Large Size",
+    "category": "Denim collection",
+    "price": 1450890,
+    "image": "images/st11.jpeg",
+    "alt": "Rompi Denim Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Denim Blue · Bahan: Denim",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]   
   }
 ]
