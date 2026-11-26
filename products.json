@@ -67,4 +67,18 @@
       "XL"
     ]
   }
+   {
+    "id": "st3",
+    "name": "Black Denim Jacket",
+    "category": "Denim collection",
+    "price": 998890,
+    "image": "st3.jpeg",
+    "alt": "Rompi Denim Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Gray · Bahan: Denim",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  }
 ]
