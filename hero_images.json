@@ -1,8 +1,10 @@
-{
-  "intervalSeconds": 5,
-  "images": [
-    "images/hero-1.jpg",
-    "images/hero-2.jpg",
-    "images/hero-3.jpg"
-  ]
-}
+[
+  {
+    "image": "images/boy.jpg",
+    "alt": "Black Denim Jacket ST.FASHION"
+  },
+  {
+    "image": "images/boy2.jpg",
+    "alt": "Blue Denim Jacket ST.FASHION"
+  }
+]
