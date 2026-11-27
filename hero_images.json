@@ -1,8 +1,8 @@
 {
   "intervalSeconds": 5,
   "images": [
-    "images/hero-1.jpg",
-    "images/hero-2.jpg",
-    "images/hero-3.jpg"
+    "images/boy.jpeg",
+    "images/boy2.jpeg",
+    "images/boy4.jpeg"
   ]
 }
