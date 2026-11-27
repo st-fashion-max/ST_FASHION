@@ -47,7 +47,7 @@
     "category": "Denim collection",
     "price": 998890,
     "image": "images/st6.jpeg",
-    "alt": "Rompi Denim Jacket dari foto asli ST.FASHION",
+    "alt": "Denim Jacket dari foto asli ST.FASHION",
     "details": "Colour: Gray · Bahan: Denim",
      "sizes": [
       "M",
@@ -89,7 +89,7 @@
     "category": "Denim collection",
     "price": 1218890,
     "image": "images/st8.jpeg",
-    "alt": "Rompi Denim Jacket dari foto asli ST.FASHION",
+    "alt": " Denim Jacket dari foto asli ST.FASHION",
     "details": "Colour: Gray · Bahan: Denim",
      "sizes": [
       "M",
@@ -103,7 +103,7 @@
     "category": "Denim collection",
     "price": 1118890,
     "image": "images/st9.jpeg",
-    "alt": "Rompi Denim Jacket dari foto asli ST.FASHION",
+    "alt": " Denim Jacket dari foto asli ST.FASHION",
     "details": "Colour: Gray · Bahan: Denim",
      "sizes": [
       "M",
@@ -114,10 +114,10 @@
    {
     "id": "st3",
     "name": "Jaket kulit asli pria",
-    "category": "Denim collection",
+    "category": "Kulitcollection",
     "price": 1450890,
     "image": "images/st10.jpeg",
-    "alt": "Rompi Denim Jacket dari foto asli ST.FASHION",
+    "alt": "Kulit Jacket dari foto asli ST.FASHION",
     "details": "Colour: Black · Bahan: Kulit",
      "sizes": [
       "M",
@@ -193,6 +193,49 @@
       "M",
       "L",
       "XL"
+    ] 
+       },
+   {
+    "id": "st3",
+    "name": "Jacket Kulit Sapi Asli ",
+    "category": "Kulit collection",
+    "price": 1350890,
+    "image": "images/st18.jpeg",
+    "alt": " Kulit Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Coklat· Bahan: kulit ",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ] 
+       },
+   {
+    "id": "st3",
+    "name": "Jacket Kulit Sapi Asli ",
+    "category": "Kulit collection",
+    "price": 1350890,
+    "image": "images/st20.jpeg",
+    "alt": " Kulit Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Coklat· Bahan: kulit ",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ] 
+       },
+   {
+    "id": "st3",
+    "name": "Jacket Kulit Sapi Asli ",
+    "category": "Kulit collection",
+    "price": 1350890,
+    "image": "images/st21.jpeg",
+    "alt": " Kulit Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Black· Bahan: kulit ",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ] 
+  } 
     ]       
-  }
 ]
