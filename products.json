@@ -319,7 +319,49 @@
       "M",
       "L",
       "XL"
-    ]          
+    ]
+    },
+   {
+    "id": "st3",
+    "name": "Distressed tie-dye printed jacket, men's stand-up collar, zip-up style,",
+    "category": "Denim collection",
+    "price": 975890,
+    "image": "images/st31.jpeg",
+    "alt": "  Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Khaki Color· Bahan: Flat Fabric",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ] 
+     },
+   {
+    "id": "st3",
+    "name": "Distressed tie-dye printed jacket, men's stand-up collar, zip-up style,",
+    "category": "Denim collection",
+    "price": 975890,
+    "image": "images/st32.jpeg",
+    "alt": "  Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Off White· Bahan: Flat Fabric",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+    },
+   {
+    "id": "st3",
+    "name": "Distressed tie-dye printed jacket, men's stand-up collar, zip-up style,",
+    "category": "Denim collection",
+    "price": 975890,
+    "image": "images/st33.jpeg",
+    "alt": "  Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Black· Bahan: Flat Fabric",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]    
   } 
     ]       
 
