@@ -165,6 +165,20 @@
       "M",
       "L",
       "XL"
-    ]     
+    ] 
+      },
+   {
+    "id": "st3",
+    "name": "Jacket Kulit Sapi Asli ",
+    "category": "Kulit collection",
+    "price": 1350890,
+    "image": "images/st16.jpeg",
+    "alt": " Kulit Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Black· Bahan: kulit ",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]      
   }
 ]
