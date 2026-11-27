@@ -263,7 +263,49 @@
       "M",
       "L",
       "XL"
-    ]    
+    ]
+     },
+   {
+    "id": "st3",
+    "name": "Jacket Kulit Sapi Asli ",
+    "category": "Kulit collection",
+    "price": 1350890,
+    "image": "images/st24.jpeg",
+    "alt": " Kulit Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Black· Bahan: kulit ",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ] 
+      },
+   {
+    "id": "st3",
+    "name": "Trendy Men's Japanese Retro Distressed Denim Jacket Unisex Street Loose Cassual Versatile Couple's Coat ",
+    "category": "Denim collection",
+    "price": 1115890,
+    "image": "images/st25.jpeg",
+    "alt": " Kulit Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Blue· Bahan: Denim",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ] 
+   },
+   {
+    "id": "st3",
+    "name": " Spring Auntumn Vintage Denim Men's Trendy Oversize Jacker.Slim-Fit Coat,Nostalgic Stand Colar Cloting ",
+    "category": "Denim collection",
+    "price": 1115890,
+    "image": "images/st26.jpeg",
+    "alt": " Denim Jacket dari foto asli ST.FASHION",
+    "details": "Colour: Blue· Bahan: Denim",
+     "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]        
   } 
     ]       
 
